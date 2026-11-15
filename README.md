@@ -12,8 +12,3 @@ The account session is remembered in this browser for up to seven days. Reconnec
 
 Game saves (outfits, unlocks, collection and wallet) are still local to this browser and website. Previously earned portable-edition Grams are not imported into ranked totals.
 
-## Hosting
-
-GitHub Pages serves the game. Account authentication, score APIs and database run at https://flappy-bumdip-sky.gaminghdwill.chatgpt.site/. Keep that service running for live rankings.
-
-No server credentials are included in this repository. Each player connects their own account.
